@@ -1,0 +1,12 @@
+********************
+Nome: Zumbi
+N�vel: 1
+For�a: 3
+Agilidade: 0
+Velocidade: 2
+Defesa: 4
+Vida: 7
+Poder: 0
+Inteligencia: 0
+Oculto: 0
+Golpes: ['Mordida', 'Fedor']

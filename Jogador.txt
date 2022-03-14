@@ -1,0 +1,20 @@
+********************
+Nome: Paula
+Força: 7
+Agilidade: 9
+Velocidade: 7
+Defesa: 2
+Vida: 5
+Poder: 5
+Inteligencia: 8
+Sanidade: 4
+********************
+Nome: Jean
+Força: 5
+Agilidade: 7
+Velocidade: 6
+Defesa: 7
+Vida: 3
+Poder: 2
+Inteligencia: 1
+mestre: 15
