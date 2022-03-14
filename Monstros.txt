@@ -1,12 +1,5 @@
+* monsto = [nome,nivel,força,agilidade,velocidade,defesa,vida,poder,inteligencia,oculto,[golpes]]
 ********************
-Nome: Zumbi
-N�vel: 1
-For�a: 3
-Agilidade: 0
-Velocidade: 2
-Defesa: 4
-Vida: 7
-Poder: 0
-Inteligencia: 0
-Oculto: 0
-Golpes: ['Mordida', 'Fedor']
+['corredor', 3, 4, 3, 5, 7, 8, 0, 2, 2, ['investida', 'mordida']]
+********************
+['Lerdo', 1, 2, 4, 0, 2, 5, 3, 1, 0, ['mordida', 'chamado']]
